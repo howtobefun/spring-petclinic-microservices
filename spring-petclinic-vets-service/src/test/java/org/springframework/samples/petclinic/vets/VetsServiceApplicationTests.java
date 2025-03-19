@@ -19,7 +19,7 @@ import org.springframework.test.context.ActiveProfiles;
     "spring.zipkin.enabled=false"
 })
 class VetsServiceApplicationTests {
-
+    // Test
     @TestConfiguration
     static class TestConfig {
         @Bean
