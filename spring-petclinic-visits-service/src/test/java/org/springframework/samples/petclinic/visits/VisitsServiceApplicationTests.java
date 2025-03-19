@@ -14,7 +14,7 @@ import org.springframework.test.context.TestPropertySource;
     "spring.zipkin.enabled=false"
 })
 class VisitsServiceApplicationTests {
-
+    // Test
     @Test
     void contextLoads() {
         // Test that the application context loads successfully
